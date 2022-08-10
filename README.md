@@ -34,6 +34,8 @@ Importante: como dissemos antes, **não temos interesse em adicionar novas funci
 
 Este sistema foi implementado por Daniel Ferreira, aluno de graduação em Ciência da Computação no DCC/UFMG, como parte de suas atividades como monitor dos curso de extensão em [Engenharia de Software Moderna](http://www.engsoftmoderna.dcc.ufmg.br) e [Teste de Software](http://www.testesoft.dcc.ufmg.br/).
 
+Aluno: Jonata Ramalho - Atividade 1
+
 ## Licença de Uso
 
 O sistema possui uma licença MIT.
